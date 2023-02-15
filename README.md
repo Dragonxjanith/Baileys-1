@@ -1,7 +1,10 @@
 - BAILEYS MOD HOSTINGER-BOT
+- Baileys Single & Multi
 
-<p align="center">
-<img width="" src="https://img.shields.io/github/repo-size/amiruldev20/baileys?color=green&label=Repo%20Size&style=for-the-badge&logo=appveyor">
+## Note 
+> Use this version of baileys if you are still using the WhatsApp Single Auth Bot
+
+> Not only Single Sessions, this version can also be multi sessions.
 
 # Baileys - Typescript/Javascript WhatsApp Web API
  
