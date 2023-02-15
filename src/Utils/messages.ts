@@ -778,7 +778,7 @@ const generateContextInfo = () => {
  * this is an experimental patch to make buttons work
  * Don't know how it works, but it does for now
  */
-export const patchMessageForMdIfRequired = (message: proto.IMessage) => {
+ export const patchMessageForMdIfRequired = (message: proto.IMessage) => {
 	const requiresPatch = !!(
 		message.buttonsMessage
 	        || message.templateMessage
